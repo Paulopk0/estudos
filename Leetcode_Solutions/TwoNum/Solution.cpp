@@ -1,6 +1,6 @@
 #include <vector>
-#include <utility>    // Para std::pair
-#include <algorithm>  // Para std::sort
+#include <utility>   
+#include <algorithm>  
 #include <iostream>
 
 
